@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8fad1bd7-e32c-44e6-8f9b-fc8ab5516c81" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Tornado/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/configuration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/utilities/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DHL_invoices/1779712476.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DHL_invoices/1779712476.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DHL_invoices/1779735156.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DHL_invoices/1779735156.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DHL_invoices/7880149970.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DHL_invoices/7880149970.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Get_september_shipments.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/ArticleRate/ARate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/ArticleRate/ARate 2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/ArticleRate/ArticleRating" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/ArticleRate/ArticleRating 2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/ArticleRate/GroceryApp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/ArticleRate/PythonFlaskApp/.idea/PythonFlaskApp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/ArticleRate/PythonFlaskApp/.idea/dictionaries/hyener.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/ArticleRate/PythonFlaskApp/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/ArticleRate/PythonFlaskApp/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/ArticleRate/PythonFlaskApp/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/ArticleRate/PythonFlaskApp/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/ArticleRate/PythonFlaskApp/templates/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/ArticleRate/PythonFlaskRemoteApp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/NY/IMG_3484.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/NY/IMG_3485.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/NY/IMG_3486.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/NY/IMG_3487.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/NY/IMG_3488.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/NY/IMG_3489.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/NY/IMG_3565.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/NY/IMG_3566.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/NY/IMG_3567.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/NY/IMG_3568.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/NY/IMG_3569.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/NY/IMG_3570.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/NY/IMG_3572.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/NY/IMG_3573.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/NY/IMG_3574.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/NY/IMG_3575.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/NY/IMG_3576.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/NY/IMG_3577.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/NY/IMG_3617.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/NY/IMG_3620.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/NY/IMG_3672.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/NY/IMG_3673.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/NY/IMG_3674.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/NY/IMG_3676.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3845.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3846.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3847.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3848.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3849.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3850.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3851.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3853.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3854.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3855.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3856.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3857.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3858.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3859.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3860.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3861.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3862.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3863.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3864.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3865.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3866.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3867.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3869.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3870.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3871.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3873.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3874.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3875.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3876.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3877.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3879.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3880.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3881.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3882.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3883.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3884.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3885.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3886.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3887.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3888.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3897.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3898.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3900.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3901.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3902.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3903.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3904.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3905.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3906.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3907.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3908.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3909.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3910.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3911.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3912.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3915.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3916.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3917.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3919.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3920.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3921.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3922.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3923.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3924.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3925.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3926.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3927.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3929.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3930.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3931.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3932.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3933.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3934.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3935.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3936.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3938.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3939.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3940.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3941.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3942.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3943.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3944.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3945.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3946.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3947.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3948.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3949.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3950.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3951.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3952.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3953.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3954.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3955.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3956.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3957.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3958.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3959.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3960.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3961.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3962.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3963.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3964.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3965.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3966.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3967.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3968.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3969.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3970.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3971.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3972.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3973.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3974.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3975.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3976.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3977.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3978.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3979.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3980.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3981.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3982.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3983.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3984.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3985.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3986.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3987.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3988.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3989.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3990.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3991.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3992.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3993.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3994.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3995.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3996.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3997.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3998.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_3999.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4000.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4001.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4002.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4003.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4004.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4006.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4007.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4008.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4009.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4010.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4011.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4012.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4013.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4014.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4015.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4016.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4017.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4018.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4019.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4021.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4022.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4023.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4024.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4025.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4026.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4027.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4028.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4029.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4030.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4031.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4032.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4033.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4034.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4035.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4036.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4037.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4038.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4039.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4040.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4041.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4042.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4043.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4044.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4045.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4046.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4047.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4048.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4050.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4051.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4052.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4053.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4054.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4055.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4056.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4057.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4058.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4065.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4066.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4067.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4071.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4072.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4073.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4074.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4075.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4076.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4077.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4078.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4079.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4080.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4081.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4082.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4083.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4084.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4085.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4086.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4087.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4088.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4089.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4090.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4091.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4092.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4093.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/Philly/IMG_4094.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRA/pebble art/Archive.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2018-01-26 at 14.59.33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elf" beforeDir="false" afterPath="$PROJECT_DIR$/../elf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shippn-backend" beforeDir="false" afterPath="$PROJECT_DIR$/../shippn-backend" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shippn-frontend" beforeDir="false" afterPath="$PROJECT_DIR$/../shippn-frontend" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/homeq/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1120">
+              <caret line="39" column="15" selection-start-line="39" selection-start-column="15" selection-end-line="39" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apartments/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apartments/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/venv/lib/python3.6/site-packages/django/db/models/fields/related.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2944">
+              <caret line="760" column="32" selection-start-line="760" selection-start-column="32" selection-end-line="760" selection-end-column="32" />
+              <folding>
+                <element signature="e#39480#40909#0" />
+                <element signature="e#40974#42587#0" />
+                <element signature="e#42631#68334#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="215">
+              <caret line="101" column="4" selection-start-line="101" selection-start-column="4" selection-end-line="101" selection-end-column="4" />
+              <folding>
+                <element signature="e#39278#41448#0" />
+                <element signature="e#41500#41964#0" />
+                <element signature="e#41998#43089#0" />
+                <element signature="e#43140#48349#0" />
+                <element signature="e#48388#54706#0" />
+                <element signature="e#54740#59577#0" />
+                <element signature="e#59612#61518#0" />
+                <element signature="e#61554#62372#0" />
+                <element signature="e#62407#64658#0" />
+                <element signature="e#64690#65600#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="7" column="50" lean-forward="true" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/homeq/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#629#661#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>AUTH_USER_MODEL</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/homeq/settings.py" />
+        <option value="$PROJECT_DIR$/apartments/admin.py" />
+        <option value="$PROJECT_DIR$/apartments/models.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="homeq_django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homeq_django" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="homeq_django" type="Python.DjangoServer" factoryName="Django server">
+      <module name="homeq_django" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8fad1bd7-e32c-44e6-8f9b-fc8ab5516c81" name="Default Changelist" comment="" />
+      <created>1543606332024</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543606332024</updated>
+      <workItem from="1543606336888" duration="1734000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1734000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py</url>
+          <line>1115</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="101" column="4" selection-start-line="101" selection-start-column="4" selection-end-line="101" selection-end-column="4" />
+          <folding>
+            <element signature="e#39278#41448#0" />
+            <element signature="e#41500#41964#0" />
+            <element signature="e#41998#43089#0" />
+            <element signature="e#43140#48349#0" />
+            <element signature="e#48388#54706#0" />
+            <element signature="e#54740#59577#0" />
+            <element signature="e#59612#61518#0" />
+            <element signature="e#61554#62372#0" />
+            <element signature="e#62407#64658#0" />
+            <element signature="e#64690#65600#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/venv/lib/python3.6/site-packages/django/db/models/fields/related.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2944">
+          <caret line="760" column="32" selection-start-line="760" selection-start-column="32" selection-end-line="760" selection-end-column="32" />
+          <folding>
+            <element signature="e#39480#40909#0" />
+            <element signature="e#40974#42587#0" />
+            <element signature="e#42631#68334#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apartments/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apartments/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homeq/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#629#661#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/venv/lib/python3.6/site-packages/django/core/management/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="367" column="4" selection-start-line="367" selection-start-column="4" selection-end-line="367" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="7" column="50" lean-forward="true" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homeq/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1120">
+          <caret line="39" column="15" selection-start-line="39" selection-start-column="15" selection-end-line="39" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
