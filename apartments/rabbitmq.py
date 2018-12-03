@@ -9,11 +9,11 @@ class RabbitMq(object):
   def __init__(self):
 
     self.queue_name = 'apartments'
-    self.exchange_name = ' integration.exchange'
+    self.exchange_name = 'integration.exchange'
 
     # Access the CLODUAMQP_URL
     url = os.environ.get('CLOUDAMQP_URL',
-                         'amqp://pujsxkjn:V2xiYe4PJN1O2AsPBQ26KuPy5iwfY4eM@bee.rmq.cloudamqp.co m/pujsxkjn')
+                         'amqp://pujsxkjn:V2xiYe4PJN1O2AsPBQ26KuPy5iwfY4eM@bee.rmq.cloudamqp.com/pujsxkjn')
     params = pika.URLParameters(url)
     connection = pika.BlockingConnection(params)
 
